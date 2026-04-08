@@ -20,13 +20,13 @@ This is a dynamic web application built to handle structured data, user interact
 ## 📸 Screenshots
 
 ### Dashboard View
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.jpg)
 
 ### Data Entry Page
-![Form](screenshots/form.png)
+![Form](screenshots/form.jpg)
 
 ### Reports Page
-![Reports](screenshots/report.png)
+![Reports](screenshots/report.jpg)
 
 ## 📂 Project Structure
 - `/assets` → CSS and JavaScript files  
