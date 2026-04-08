@@ -64,6 +64,12 @@ This type of system can be used for:
 
 ---
 
+## 📊 Related Project
+Excel-based reporting version:
+📊 https://github.com/Chimkamma/excel-operations-dashboard
+
+---
+
 ## ⚙️ Running Locally
 1. Clone the repository  
 2. Set up a local server (XAMPP or similar)  
