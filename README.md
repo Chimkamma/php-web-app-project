@@ -1,10 +1,17 @@
 # PHP Web Application (Data & Reporting System)
 
-This project is a dynamic web application built to manage, process, and display structured data for operational and reporting purposes.
+🔹 PHP Web App for Data Management & Reporting  
+🔹 Built with PHP, JavaScript, MySQL  
+🔹 Designed for operational and business use cases  
+
+This project is a PHP-based web application designed to manage and report operational data efficiently.
+
+It simulates a real-world system used for tracking, updating, and analyzing structured data across multiple units or centres, similar to internal business reporting tools.
 
 It demonstrates my ability to build and maintain backend-driven applications while supporting real-world data workflows.
 
 💼 Available for remote contract work | $30/hr
+📩 Open to trial tasks and long-term collaboration
 
 ---
 
@@ -26,6 +33,13 @@ This type of system can be used for:
 - Operational data tracking  
 - Internal reporting dashboards  
 - Business process management  
+
+---
+
+## 📊 What This Demonstrates
+- Ability to build and maintain database-driven web applications  
+- Experience handling structured data and reporting workflows  
+- Understanding of real-world business operations and data flow  
 
 ---
 
