@@ -1,44 +1,63 @@
-# Web Application (PHP, JavaScript, HTML/CSS)
+# PHP Web Application (Data & Reporting System)
 
-This is a dynamic web application built to handle structured data, user interactions, and backend processing using PHP and JavaScript.
+This project is a dynamic web application built to manage, process, and display structured data for operational and reporting purposes.
 
-## 🔧 Features
-- Database-driven architecture for storing and retrieving data
-- Secure data handling and validation
-- Interactive frontend using JavaScript
-- Clean and responsive user interface
+It demonstrates my ability to build and maintain backend-driven applications while supporting real-world data workflows.
+
+💼 Available for remote contract work | $30/hr
+
+---
 
 ## 🚀 Live Demo
-👉 https://your-live-link.com
+👉 https://crmdigrev.org
 
-## 💻 Technologies Used
-- PHP
-- JavaScript
-- HTML & CSS
-- MySQL
+---
+
+## 🔧 Key Features
+- Database-driven system for storing and retrieving data  
+- Secure data handling and validation  
+- Interactive frontend using JavaScript  
+- Structured reporting and data display  
+
+---
+
+## 🧠 Use Case
+This type of system can be used for:
+- Operational data tracking  
+- Internal reporting dashboards  
+- Business process management  
+
+---
+
+## 💻 Tech Stack
+- PHP  
+- JavaScript  
+- HTML & CSS  
+- MySQL  
+
+---
 
 ## 📸 Screenshots
 
-### Dashboard View
+### Dashboard
 ![Dashboard](screenshots/dashboard.jpg)
 
-### Data Entry Page
+### Data Input
 ![Form](screenshots/form.jpg)
 
-### Reports Page
+### Reports View
 ![Reports](screenshots/report.jpg)
 
-## 📂 Project Structure
-- `/assets` → CSS and JavaScript files  
-- `/includes` → Backend logic and reusable components  
-- `/screenshots` → Project preview images  
+---
 
-## ⚙️ How to Run Locally
+## ⚙️ Running Locally
 1. Clone the repository  
-2. Set up a local server (e.g., XAMPP)  
-3. Import the database (if applicable)  
-4. Run the project via `localhost`
+2. Set up a local server (XAMPP or similar)  
+3. Configure database  
+4. Run via localhost  
+
+---
 
 ## 👤 Author
-Chimkamma Caleb Agbim  
+Chimkamma Agbim  
 Remote Web & Operations Support Contractor  
